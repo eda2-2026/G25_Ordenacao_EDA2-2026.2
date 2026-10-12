@@ -5,6 +5,9 @@ simulador de campeonato com 8 times em que a tabela de classificação é ordena
 por um **Merge Sort implementado manualmente** em Python, com interface web em
 Streamlit.
 
+**Link do vídeo de apresentação**
+[Grupo 25 - Merge Sort](https://youtu.be/qeHkWbaAtWs)
+
 |Nome | Matrícula|
 |--|--|
 |Edson Pereira | 232025730| 
